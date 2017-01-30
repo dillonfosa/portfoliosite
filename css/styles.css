@@ -1,0 +1,15 @@
+body{
+    background-color: #eeee;
+    height: 200vh;
+}
+
+nav{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 300;
+}
+
+.main-header{
+    font-weight: 300;
+    
+}
